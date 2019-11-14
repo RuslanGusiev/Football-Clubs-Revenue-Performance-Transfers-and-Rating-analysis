@@ -1,0 +1,1001 @@
+Rating,Res_Rating,TO,SEASON
+1,100,Real Madrid,16/17
+2,99,Bayern München,16/17
+3,98,FC Barcelona,16/17
+4,97,Atlético Madrid,16/17
+5,96,Juventus,16/17
+6,95,Paris Saint-Germain,16/17
+7,94,Borussia Dortmund,16/17
+8,93,Sevilla,16/17
+9,92,Benfica,16/17
+10,91,Chelsea,16/17
+11,90,Arsenal,16/17
+12,89,Manchester City,16/17
+13,88,FC Porto,16/17
+14,87,Schalke 04,16/17
+15,86,Manchester United,16/17
+16,85,Bayer Leverkusen,16/17
+17,84,Napoli,16/17
+18,83,Shakhtar Donetsk,16/17
+19,82,Zenit St. Petersburg,16/17
+20,81,Tottenham Hotspur,16/17
+21,80,Valencia,16/17
+22,79,FC Basel,16/17
+23,78,Olympique Lyon,16/17
+24,77,Fiorentina,16/17
+25,76,Dinamo Kiev,16/17
+26,75,Ajax,16/17
+27,74,Villarreal,16/17
+28,73,Olympiakos Piraeus,16/17
+29,72,AS Monaco,16/17
+30,71,Athletic Bilbao,16/17
+31,70,Galatasaray,16/17
+32,69,Anderlecht,16/17
+33,68,Lazio,16/17
+34,67,Liverpool,16/17
+35,66,VfL Wolfsburg,16/17
+36,65,Borussia Mönchengladbach,16/17
+37,64,AS Roma,16/17
+38,63,Dnipro Dnipropetrovsk,16/17
+39,62,Fenerbahçe,16/17
+40,61,Sparta Praha,16/17
+41,60,AC Milan,16/17
+42,59,PSV Eindhoven,16/17
+43,58,Besiktas,16/17
+44,57,Racing Genk,16/17
+45,56,Internazionale,16/17
+46,55,Rubin Kazan,16/17
+47,54,Málaga CF,16/17
+48,53,Celtic,16/17
+49,52,Viktoria Plzen,16/17
+50,51,FC Salzburg,16/17
+51,50,Celta de Vigo,16/17
+52,49,CSKA Moscow,16/17
+53,48,Club Brugge,16/17
+54,47,FC København,16/17
+55,46,Sporting Braga,16/17
+56,45,Leicester City,16/17
+57,44,Sporting CP Lisbon,16/17
+58,43,AS Saint-Étienne,16/17
+59,42,AA Gent,16/17
+60,41,Steaua Bucuresti,16/17
+61,40,PAOK Thessaloniki,16/17
+62,39,Ludogorets Razgrad,16/17
+63,38,Levante UD,16/17
+64,37,Real Betis,16/17
+65,36,AZ Alkmaar,16/17
+66,35,FK Krasnodar,16/17
+67,34,Anzhi Makhachkala,16/17
+68,33,Newcastle United,16/17
+69,32,BATE Borisov,16/17
+70,31,Girondins Bordeaux,16/17
+71,30,Everton,16/17
+72,29,Young Boys,16/17
+73,28,Rapid Wien,16/17
+74,27,Legia Warsaw,16/17
+75,26,Olympique Marseille,16/17
+76,25,Eintracht Frankfurt,16/17
+77,24,Torino,16/17
+78,23,Dinamo Moscow,16/17
+79,22,Real Sociedad,16/17
+80,21,Trabzonspor,16/17
+81,20,VfB Stuttgart,16/17
+82,19,APOEL Nicosia,16/17
+83,18,Dinamo Zagreb,16/17
+84,17,Hannover 96,16/17
+85,16,Slovan Liberec,16/17
+86,15,FSV Mainz 05,16/17
+87,14,FK Rostov,16/17
+88,13,Maccabi Tel-Aviv,16/17
+89,12,Feyenoord,16/17
+90,11,FC Augsburg,16/17
+91,10,Southampton FC,16/17
+92,9,Lille OSC,16/17
+93,8,Swansea City,16/17
+94,7,NK Maribor,16/17
+95,6,Standard Liège,16/17
+96,5,SC Freiburg,16/17
+97,4,Lokomotiv Moscow,16/17
+98,3,Metalist Kharkiv,16/17
+99,2,En Avant Guingamp,16/17
+100,1,Molde FK,16/17
+1,100,Real Madrid,15/16
+2,99,Bayern München,15/16
+3,98,FC Barcelona,15/16
+4,97,Atlético Madrid,15/16
+5,96,Chelsea,15/16
+6,95,Benfica,15/16
+7,94,Paris Saint-Germain,15/16
+8,93,Borussia Dortmund,15/16
+9,92,Juventus,15/16
+10,91,Arsenal,15/16
+11,90,Manchester City,15/16
+12,89,Valencia,15/16
+13,88,Schalke 04,15/16
+14,87,Sevilla,15/16
+15,86,Zenit St. Petersburg,15/16
+16,85,FC Porto,15/16
+17,84,Napoli,15/16
+18,83,Bayer Leverkusen,15/16
+19,82,FC Basel,15/16
+20,81,Manchester United,15/16
+21,80,Shakhtar Donetsk,15/16
+22,79,Athletic Bilbao,15/16
+23,78,Tottenham Hotspur,15/16
+24,77,Olympiakos Piraeus,15/16
+25,76,AC Milan,15/16
+26,75,Dinamo Kiev,15/16
+27,74,Lazio,15/16
+28,73,Olympique Lyon,15/16
+29,72,Villarreal,15/16
+30,71,Ajax,15/16
+31,70,Internazionale,15/16
+32,69,Galatasaray,15/16
+33,68,PSV Eindhoven,15/16
+34,67,Fiorentina,15/16
+35,66,Liverpool,15/16
+36,65,VfL Wolfsburg,15/16
+37,64,Dnipro Dnipropetrovsk,15/16
+38,63,Anderlecht,15/16
+39,62,Rubin Kazan,15/16
+40,61,Sporting CP Lisbon,15/16
+41,60,CSKA Moscow,15/16
+42,59,Olympique Marseille,15/16
+43,58,Viktoria Plzen,15/16
+44,57,AZ Alkmaar,15/16
+45,56,Málaga CF,15/16
+46,55,Sporting Braga,15/16
+47,54,Club Brugge,15/16
+48,53,FC Salzburg,15/16
+49,52,Borussia Mönchengladbach,15/16
+50,51,Hannover 96,15/16
+51,50,AS Roma,15/16
+52,49,Fenerbahçe,15/16
+53,48,Sparta Praha,15/16
+54,47,Celtic,15/16
+55,46,Metalist Kharkiv,15/16
+56,45,PAOK Thessaloniki,15/16
+57,44,Steaua Bucuresti,15/16
+58,43,AS Monaco,15/16
+59,42,Trabzonspor,15/16
+60,41,Racing Genk,15/16
+61,40,APOEL Nicosia,15/16
+62,39,Besiktas,15/16
+63,38,Levante UD,15/16
+64,37,BATE Borisov,15/16
+65,36,Real Betis,15/16
+66,35,Anzhi Makhachkala,15/16
+67,34,Lokomotiv Moscow,15/16
+68,33,Udinese,15/16
+69,32,Newcastle United,15/16
+70,31,Lille OSC,15/16
+71,30,Everton,15/16
+72,29,Girondins Bordeaux,15/16
+73,28,Eintracht Frankfurt,15/16
+74,27,Legia Warsaw,15/16
+75,26,Dinamo Moscow,15/16
+76,25,Real Sociedad,15/16
+77,24,FC Twente Enschede,15/16
+78,23,Standard Liège,15/16
+79,22,Torino,15/16
+80,21,VfB Stuttgart,15/16
+81,20,AS Saint-Étienne,15/16
+82,19,Dinamo Zagreb,15/16
+83,18,Ludogorets Razgrad,15/16
+84,17,AA Gent,15/16
+85,16,Young Boys,15/16
+86,15,FC København,15/16
+87,14,FK Krasnodar,15/16
+88,13,Rapid Wien,15/16
+89,12,Stoke City,15/16
+90,11,FC Augsburg,15/16
+91,10,Swansea City,15/16
+92,9,Birmingham City,15/16
+93,8,Slovan Liberec,15/16
+94,7,NK Maribor,15/16
+95,6,Fulham FC,15/16
+96,5,SC Freiburg,15/16
+97,4,Molde FK,15/16
+98,3,Maccabi Tel-Aviv,15/16
+99,2,En Avant Guingamp,15/16
+100,1,Wigan Athletic,15/16
+1,100,Real Madrid,14/15
+2,99,FC Barcelona,14/15
+3,98,Bayern München,14/15
+4,97,Chelsea,14/15
+5,96,Atlético Madrid,14/15
+6,95,Benfica,14/15
+7,94,Schalke 04,14/15
+8,93,FC Porto,14/15
+9,92,Arsenal,14/15
+10,91,Manchester United,14/15
+11,90,Paris Saint-Germain,14/15
+12,89,Valencia,14/15
+13,88,Borussia Dortmund,14/15
+14,87,Juventus,14/15
+15,86,Zenit St. Petersburg,14/15
+16,85,Bayer Leverkusen,14/15
+17,84,Manchester City,14/15
+18,83,Shakhtar Donetsk,14/15
+19,82,FC Basel,14/15
+20,81,Napoli,14/15
+21,80,Tottenham Hotspur,14/15
+22,79,AC Milan,14/15
+23,78,Sevilla,14/15
+24,77,Internazionale,14/15
+25,76,Olympique Lyon,14/15
+26,75,Ajax,14/15
+27,74,Dinamo Kiev,14/15
+28,73,Olympiakos Piraeus,14/15
+29,72,Villarreal,14/15
+30,71,PSV Eindhoven,14/15
+31,70,Rubin Kazan,14/15
+32,69,Athletic Bilbao,14/15
+33,68,Sporting CP Lisbon,14/15
+34,67,CSKA Moscow,14/15
+35,66,Olympique Marseille,14/15
+36,65,Dnipro Dnipropetrovsk,14/15
+37,64,Sporting Braga,14/15
+38,63,Galatasaray,14/15
+39,62,Fiorentina,14/15
+40,61,Lazio,14/15
+41,60,Anderlecht,14/15
+42,59,Liverpool,14/15
+43,58,Metalist Kharkiv,14/15
+44,57,AZ Alkmaar,14/15
+45,56,FC Twente Enschede,14/15
+46,55,AS Roma,14/15
+47,54,FC Salzburg,14/15
+48,53,Málaga CF,14/15
+49,52,Hannover 96,14/15
+50,51,Viktoria Plzen,14/15
+51,50,Club Brugge,14/15
+52,49,FC København,14/15
+53,48,PAOK Thessaloniki,14/15
+54,47,Steaua Bucuresti,14/15
+55,46,Celtic,14/15
+56,45,Spartak Moscow,14/15
+57,44,Racing Genk,14/15
+58,43,Besiktas,14/15
+59,42,Trabzonspor,14/15
+60,41,Lille OSC,14/15
+61,40,VfB Stuttgart,14/15
+62,39,APOEL Nicosia,14/15
+63,38,BATE Borisov,14/15
+64,37,Borussia Mönchengladbach,14/15
+65,36,Levante UD,14/15
+66,35,Real Betis,14/15
+67,34,VfL Wolfsburg,14/15
+68,33,AS Monaco,14/15
+69,32,Young Boys,14/15
+70,31,Anzhi Makhachkala,14/15
+71,30,Newcastle United,14/15
+72,29,Sparta Praha,14/15
+73,28,Udinese,14/15
+74,27,Everton,14/15
+75,26,Fenerbahçe,14/15
+76,25,Eintracht Frankfurt,14/15
+77,24,Dinamo Moscow,14/15
+78,23,Torino,14/15
+79,22,Real Sociedad,14/15
+80,21,Standard Liège,14/15
+81,20,Ludogorets Razgrad,14/15
+82,19,Getafe,14/15
+83,18,Legia Warsaw,14/15
+84,17,Dinamo Zagreb,14/15
+85,16,Girondins Bordeaux,14/15
+86,15,CFR Cluj,14/15
+87,14,Stoke City,14/15
+88,13,Werder Bremen,14/15
+89,12,Lokomotiv Moscow,14/15
+90,11,Swansea City,14/15
+91,10,Birmingham City,14/15
+92,9,NK Maribor,14/15
+93,8,Fulham FC,14/15
+94,7,Hapoel Tel-Aviv,14/15
+95,6,Feyenoord,14/15
+96,5,SC Freiburg,14/15
+97,4,Austria Wien,14/15
+98,3,Palermo,14/15
+99,2,Wigan Athletic,14/15
+100,1,Panathinaikos,14/15
+1,100,Real Madrid,13/14
+2,99,FC Barcelona,13/14
+3,98,Bayern München,13/14
+4,97,Chelsea,13/14
+5,96,Benfica,13/14
+6,95,Manchester United,13/14
+7,94,Atlético Madrid,13/14
+8,93,Valencia,13/14
+9,92,Arsenal,13/14
+10,91,FC Porto,13/14
+11,90,AC Milan,13/14
+12,89,Olympique Lyon,13/14
+13,88,Internazionale,13/14
+14,87,Schalke 04,13/14
+15,86,Borussia Dortmund,13/14
+16,85,Juventus,13/14
+17,84,Paris Saint-Germain,13/14
+18,83,Shakhtar Donetsk,13/14
+19,82,Tottenham Hotspur,13/14
+20,81,FC Basel,13/14
+21,80,Zenit St. Petersburg,13/14
+22,79,Manchester City,13/14
+23,78,Sevilla,13/14
+24,77,Bayer Leverkusen,13/14
+25,76,Olympique Marseille,13/14
+26,75,Rubin Kazan,13/14
+27,74,Olympiakos Piraeus,13/14
+28,73,CSKA Moscow,13/14
+29,72,PSV Eindhoven,13/14
+30,71,Ajax,13/14
+31,70,Napoli,13/14
+32,69,Liverpool,13/14
+33,68,Sporting CP Lisbon,13/14
+34,67,Dinamo Kiev,13/14
+35,66,AZ Alkmaar,13/14
+36,65,Galatasaray,13/14
+37,64,Athletic Bilbao,13/14
+38,63,VfB Stuttgart,13/14
+39,62,Villarreal,13/14
+40,61,Sporting Braga,13/14
+41,60,Lazio,13/14
+42,59,Girondins Bordeaux,13/14
+43,58,FC Twente Enschede,13/14
+44,57,Anderlecht,13/14
+45,56,Fiorentina,13/14
+46,55,FC Salzburg,13/14
+47,54,Fulham FC,13/14
+48,53,Metalist Kharkiv,13/14
+49,52,Lille OSC,13/14
+50,51,FC København,13/14
+51,50,Hannover 96,13/14
+52,49,Málaga CF,13/14
+53,48,Fenerbahçe,13/14
+54,47,Viktoria Plzen,13/14
+55,46,AS Roma,13/14
+56,45,Steaua Bucuresti,13/14
+57,44,Werder Bremen,13/14
+58,43,Racing Genk,13/14
+59,42,Standard Liège,13/14
+60,41,PAOK Thessaloniki,13/14
+61,40,APOEL Nicosia,13/14
+62,39,Celtic,13/14
+63,38,Spartak Moscow,13/14
+64,37,Hamburger SV,13/14
+65,36,BATE Borisov,13/14
+66,35,Besiktas,13/14
+67,34,Levante UD,13/14
+68,33,VfL Wolfsburg,13/14
+69,32,Club Brugge,13/14
+70,31,Dnipro Dnipropetrovsk,13/14
+71,30,Newcastle United,13/14
+72,29,Real Betis,13/14
+73,28,Hapoel Tel-Aviv,13/14
+74,27,Trabzonspor,13/14
+75,26,Anzhi Makhachkala,13/14
+76,25,Panathinaikos,13/14
+77,24,Udinese,13/14
+78,23,Sparta Praha,13/14
+79,22,Eintracht Frankfurt,13/14
+80,21,CFR Cluj,13/14
+81,20,Borussia Mönchengladbach,13/14
+82,19,Stoke City,13/14
+83,18,Everton,13/14
+84,17,Real Sociedad,13/14
+85,16,Getafe,13/14
+86,15,Hertha BSC,13/14
+87,14,Young Boys,13/14
+88,13,Swansea City,13/14
+89,12,Birmingham City,13/14
+90,11,Dinamo Zagreb,13/14
+91,10,Austria Wien,13/14
+92,9,Glasgow Rangers,13/14
+93,8,SC Freiburg,13/14
+94,7,Wigan Athletic,13/14
+95,6,Lokomotiv Moscow,13/14
+96,5,Aston Villa,13/14
+97,4,Palermo,13/14
+98,3,Rapid Wien,13/14
+99,2,Maritimo Funchal,13/14
+100,1,FC Zürich,13/14
+1,100,FC Barcelona,12/13
+2,99,Bayern München,12/13
+3,98,Chelsea,12/13
+4,97,Real Madrid,12/13
+5,96,Manchester United,12/13
+6,95,Arsenal,12/13
+7,94,Internazionale,12/13
+8,93,FC Porto,12/13
+9,92,Benfica,12/13
+10,91,Valencia,12/13
+11,90,Atlético Madrid,12/13
+12,89,Olympique Lyon,12/13
+13,88,Shakhtar Donetsk,12/13
+14,87,AC Milan,12/13
+15,86,Schalke 04,12/13
+16,85,Olympique Marseille,12/13
+17,84,Liverpool,12/13
+18,83,CSKA Moscow,12/13
+19,82,Paris Saint-Germain,12/13
+20,81,Juventus,12/13
+21,80,Zenit St. Petersburg,12/13
+22,79,Manchester City,12/13
+23,78,Sporting CP Lisbon,12/13
+24,77,Tottenham Hotspur,12/13
+25,76,Dinamo Kiev,12/13
+26,75,Villarreal,12/13
+27,74,Ajax,12/13
+28,73,PSV Eindhoven,12/13
+29,72,Sporting Braga,12/13
+30,71,Metalist Kharkiv,12/13
+31,70,Borussia Dortmund,12/13
+32,69,Werder Bremen,12/13
+33,68,VfB Stuttgart,12/13
+34,67,Girondins Bordeaux,12/13
+35,66,FC Basel,12/13
+36,65,FC Twente Enschede,12/13
+37,64,Rubin Kazan,12/13
+38,63,Olympiakos Piraeus,12/13
+39,62,Hamburger SV,12/13
+40,61,Sevilla,12/13
+41,60,Galatasaray,12/13
+42,59,Bayer Leverkusen,12/13
+43,58,AS Roma,12/13
+44,57,Athletic Bilbao,12/13
+45,56,FC København,12/13
+46,55,Napoli,12/13
+47,54,Fenerbahçe,12/13
+48,53,Standard Liège,12/13
+49,52,Lille OSC,12/13
+50,51,Fulham FC,12/13
+51,50,Anderlecht,12/13
+52,49,Udinese,12/13
+53,48,Fiorentina,12/13
+54,47,Panathinaikos,12/13
+55,46,Hannover 96,12/13
+56,45,VfL Wolfsburg,12/13
+57,44,Lazio,12/13
+58,43,Spartak Moscow,12/13
+59,42,Málaga CF,12/13
+60,41,AZ Alkmaar,12/13
+61,40,BATE Borisov,12/13
+62,39,Celtic,12/13
+63,38,Club Brugge,12/13
+64,37,Steaua Bucuresti,12/13
+65,36,APOEL Nicosia,12/13
+66,35,Besiktas,12/13
+67,34,Newcastle United,12/13
+68,33,Levante UD,12/13
+69,32,CFR Cluj,12/13
+70,31,Hapoel Tel-Aviv,12/13
+71,30,Sparta Praha,12/13
+72,29,Hertha BSC,12/13
+73,28,PAOK Thessaloniki,12/13
+74,27,Viktoria Plzen,12/13
+75,26,FC Salzburg,12/13
+76,25,Aston Villa,12/13
+77,24,Racing Genk,12/13
+78,23,AS Saint-Étienne,12/13
+79,22,Dinamo Zagreb,12/13
+80,21,Sampdoria,12/13
+81,20,Racing Santander,12/13
+82,19,Everton,12/13
+83,18,Borussia Mönchengladbach,12/13
+84,17,Deportivo La Coruña,12/13
+85,16,Stoke City,12/13
+86,15,Young Boys,12/13
+87,14,Dnipro Dnipropetrovsk,12/13
+88,13,Lech Poznan,12/13
+89,12,Birmingham City,12/13
+90,11,Getafe,12/13
+91,10,Portsmouth FC,12/13
+92,9,Glasgow Rangers,12/13
+93,8,Trabzonspor,12/13
+94,7,Lokomotiv Moscow,12/13
+95,6,Anzhi Makhachkala,12/13
+96,5,AaB Aalborg,12/13
+97,4,Heerenveen,12/13
+98,3,Palermo,12/13
+99,2,Montpellier,12/13
+100,1,AS Nancy Lorraine,12/13
+1,100,FC Barcelona,11/12
+2,99,Manchester United,11/12
+3,98,Chelsea,11/12
+4,97,Bayern München,11/12
+5,96,Real Madrid,11/12
+6,95,Arsenal,11/12
+7,94,Internazionale,11/12
+8,93,Atlético Madrid,11/12
+9,92,FC Porto,11/12
+10,91,Olympique Lyon,11/12
+11,90,Liverpool,11/12
+12,89,AC Milan,11/12
+13,88,Valencia,11/12
+14,87,Benfica,11/12
+15,86,Olympique Marseille,11/12
+16,85,Shakhtar Donetsk,11/12
+17,84,Sporting CP Lisbon,11/12
+18,83,CSKA Moscow,11/12
+19,82,Villarreal,11/12
+20,81,Zenit St. Petersburg,11/12
+21,80,Schalke 04,11/12
+22,79,PSV Eindhoven,11/12
+23,78,Werder Bremen,11/12
+24,77,Hamburger SV,11/12
+25,76,Sevilla,11/12
+26,75,AS Roma,11/12
+27,74,Tottenham Hotspur,11/12
+28,73,Manchester City,11/12
+29,72,Sporting Braga,11/12
+30,71,Fiorentina,11/12
+31,70,Dinamo Kiev,11/12
+32,69,Olympiakos Piraeus,11/12
+33,68,Bayer Leverkusen,11/12
+34,67,Girondins Bordeaux,11/12
+35,66,Ajax,11/12
+36,65,FC Twente Enschede,11/12
+37,64,VfB Stuttgart,11/12
+38,63,FC Basel,11/12
+39,62,Metalist Kharkiv,11/12
+40,61,Panathinaikos,11/12
+41,60,Anderlecht,11/12
+42,59,Athletic Bilbao,11/12
+43,58,Juventus,11/12
+44,57,FC København,11/12
+45,56,Standard Liège,11/12
+46,55,Spartak Moscow,11/12
+47,54,Fulham FC,11/12
+48,53,Paris Saint-Germain,11/12
+49,52,AZ Alkmaar,11/12
+50,51,Glasgow Rangers,11/12
+51,50,Everton,11/12
+52,49,Besiktas,11/12
+53,48,Fenerbahçe,11/12
+54,47,VfL Wolfsburg,11/12
+55,46,Rubin Kazan,11/12
+56,45,Napoli,11/12
+57,44,Getafe,11/12
+58,43,Udinese,11/12
+59,42,Lille OSC,11/12
+60,41,Galatasaray,11/12
+61,40,Club Brugge,11/12
+62,39,APOEL Nicosia,11/12
+63,38,Celtic,11/12
+64,37,Hapoel Tel-Aviv,11/12
+65,36,Hannover 96,11/12
+66,35,Borussia Dortmund,11/12
+67,34,Lazio,11/12
+68,33,BATE Borisov,11/12
+69,32,FC Salzburg,11/12
+70,31,Bolton Wanderers,11/12
+71,30,Hertha BSC,11/12
+72,29,PAOK Thessaloniki,11/12
+73,28,Aston Villa,11/12
+74,27,Lokomotiv Moscow,11/12
+75,26,Sampdoria,11/12
+76,25,Steaua Bucuresti,11/12
+77,24,AS Saint-Étienne,11/12
+78,23,Sparta Praha,11/12
+79,22,AaB Aalborg,11/12
+80,21,Stoke City,11/12
+81,20,Racing Santander,11/12
+82,19,Dinamo Zagreb,11/12
+83,18,AEK Athens,11/12
+84,17,Birmingham City,11/12
+85,16,Deportivo La Coruña,11/12
+86,15,FC Zürich,11/12
+87,14,1.FC Nürnberg,11/12
+88,13,Portsmouth FC,11/12
+89,12,Lech Poznan,11/12
+90,11,Aris Thessaloniki,11/12
+91,10,Rosenborg BK,11/12
+92,9,Austria Wien,11/12
+93,8,Heerenveen,11/12
+94,7,Palermo,11/12
+95,6,Stade Rennais,11/12
+96,5,Toulouse FC,11/12
+97,4,Trabzonspor,11/12
+98,3,Slavia Praha,11/12
+99,2,Blackburn Rovers,11/12
+100,1,Real Zaragoza,11/12
+1,100,Manchester United,10/11
+2,99,FC Barcelona,10/11
+3,98,Chelsea,10/11
+4,97,Bayern München,10/11
+5,96,Liverpool,10/11
+6,95,Arsenal,10/11
+7,94,Real Madrid,10/11
+8,93,FC Porto,10/11
+9,92,Internazionale,10/11
+10,91,AC Milan,10/11
+11,90,Sevilla,10/11
+12,89,Werder Bremen,10/11
+13,88,Olympique Lyon,10/11
+14,87,Shakhtar Donetsk,10/11
+15,86,Valencia,10/11
+16,85,AS Roma,10/11
+17,84,Benfica,10/11
+18,83,Tottenham Hotspur,10/11
+19,82,Villarreal,10/11
+20,81,Hamburger SV,10/11
+21,80,PSV Eindhoven,10/11
+22,79,CSKA Moscow,10/11
+23,78,Atlético Madrid,10/11
+24,77,Olympique Marseille,10/11
+25,76,Sporting CP Lisbon,10/11
+26,75,Girondins Bordeaux,10/11
+27,74,Fiorentina,10/11
+28,73,Sporting Braga,10/11
+29,72,Schalke 04,10/11
+30,71,Dinamo Kiev,10/11
+31,70,Zenit St. Petersburg,10/11
+32,69,Panathinaikos,10/11
+33,68,Glasgow Rangers,10/11
+34,67,Ajax,10/11
+35,66,Bayer Leverkusen,10/11
+36,65,VfB Stuttgart,10/11
+37,64,Spartak Moscow,10/11
+38,63,Paris Saint-Germain,10/11
+39,62,FC København,10/11
+40,61,Olympiakos Piraeus,10/11
+41,60,Fenerbahçe,10/11
+42,59,Manchester City,10/11
+43,58,Juventus,10/11
+44,57,Espanyol,10/11
+45,56,Galatasaray,10/11
+46,55,Everton,10/11
+47,54,AZ Alkmaar,10/11
+48,53,Anderlecht,10/11
+49,52,FC Twente Enschede,10/11
+50,51,Lille OSC,10/11
+51,50,Fulham FC,10/11
+52,49,FC Basel,10/11
+53,48,VfL Wolfsburg,10/11
+54,47,Celtic,10/11
+55,46,Getafe,10/11
+56,45,Osasuna,10/11
+57,44,Besiktas,10/11
+58,43,Hapoel Tel-Aviv,10/11
+59,42,Metalist Kharkiv,10/11
+60,41,Newcastle United,10/11
+61,40,Standard Liège,10/11
+62,39,Rubin Kazan,10/11
+63,38,Club Brugge,10/11
+64,37,AEK Athens,10/11
+65,36,Sparta Praha,10/11
+66,35,Blackburn Rovers,10/11
+67,34,Steaua Bucuresti,10/11
+68,33,Bolton Wanderers,10/11
+69,32,Aston Villa,10/11
+70,31,Hertha BSC,10/11
+71,30,Celta de Vigo,10/11
+72,29,Sampdoria,10/11
+73,28,Udinese,10/11
+74,27,Palermo,10/11
+75,26,AS Saint-Étienne,10/11
+76,25,AS Nancy Lorraine,10/11
+77,24,AaB Aalborg,10/11
+78,23,Heerenveen,10/11
+79,22,Athletic Bilbao,10/11
+80,21,Racing Santander,10/11
+81,20,AJ Auxerre,10/11
+82,19,Deportivo La Coruña,10/11
+83,18,BATE Borisov,10/11
+84,17,Portsmouth FC,10/11
+85,16,Lazio,10/11
+86,15,Borussia Dortmund,10/11
+87,14,RC Lens,10/11
+88,13,Dinamo Bucuresti,10/11
+89,12,FC Salzburg,10/11
+90,11,AC Parma,10/11
+91,10,1.FC Nürnberg,10/11
+92,9,Lech Poznan,10/11
+93,8,Maccabi Haifa,10/11
+94,7,Napoli,10/11
+95,6,Aris Thessaloniki,10/11
+96,5,Dinamo Zagreb,10/11
+97,4,CFR Cluj,10/11
+98,3,Livorno,10/11
+99,2,Eintracht Frankfurt,10/11
+100,1,Toulouse FC,10/11
+1,100,FC Barcelona,09/10
+2,99,Manchester United,09/10
+3,98,Chelsea,09/10
+4,97,Arsenal,09/10
+5,96,Liverpool,09/10
+6,95,Bayern München,09/10
+7,94,Sevilla,09/10
+8,93,Internazionale,09/10
+9,92,AC Milan,09/10
+10,91,Olympique Lyon,09/10
+11,90,Werder Bremen,09/10
+12,89,Hamburger SV,09/10
+13,88,Real Madrid,09/10
+14,87,AS Roma,09/10
+15,86,FC Porto,09/10
+16,85,Shakhtar Donetsk,09/10
+17,84,Benfica,09/10
+18,83,Villarreal,09/10
+19,82,Girondins Bordeaux,09/10
+20,81,Valencia,09/10
+21,80,CSKA Moscow,09/10
+22,79,PSV Eindhoven,09/10
+23,78,Atlético Madrid,09/10
+24,77,Fiorentina,09/10
+25,76,Olympique Marseille,09/10
+26,75,Zenit St. Petersburg,09/10
+27,74,Juventus,09/10
+28,73,Sporting CP Lisbon,09/10
+29,72,Panathinaikos,09/10
+30,71,Tottenham Hotspur,09/10
+31,70,Glasgow Rangers,09/10
+32,69,Ajax,09/10
+33,68,Olympiakos Piraeus,09/10
+34,67,Fenerbahçe,09/10
+35,66,Schalke 04,09/10
+36,65,Espanyol,09/10
+37,64,VfB Stuttgart,09/10
+38,63,FC Basel,09/10
+39,62,AZ Alkmaar,09/10
+40,61,Steaua Bucuresti,09/10
+41,60,Lille OSC,09/10
+42,59,Everton,09/10
+43,58,Galatasaray,09/10
+44,57,Dinamo Kiev,09/10
+45,56,Anderlecht,09/10
+46,55,Bayer Leverkusen,09/10
+47,54,Paris Saint-Germain,09/10
+48,53,Sporting Braga,09/10
+49,52,Fulham FC,09/10
+50,51,Udinese,09/10
+51,50,VfL Wolfsburg,09/10
+52,49,Bolton Wanderers,09/10
+53,48,Celtic,09/10
+54,47,Osasuna,09/10
+55,46,Middlesbrough,09/10
+56,45,Rapid Bucuresti,09/10
+57,44,Club Brugge,09/10
+58,43,Palermo,09/10
+59,42,Hertha BSC,09/10
+60,41,FC København,09/10
+61,40,Getafe,09/10
+62,39,Besiktas,09/10
+63,38,Spartak Moscow,09/10
+64,37,Manchester City,09/10
+65,36,Newcastle United,09/10
+66,35,RC Lens,09/10
+67,34,Standard Liège,09/10
+68,33,Heerenveen,09/10
+69,32,Sampdoria,09/10
+70,31,Blackburn Rovers,09/10
+71,30,Dinamo Bucuresti,09/10
+72,29,Slavia Praha,09/10
+73,28,Hapoel Tel-Aviv,09/10
+74,27,Sparta Praha,09/10
+75,26,Celta de Vigo,09/10
+76,25,Real Betis,09/10
+77,24,AEK Athens,09/10
+78,23,Aston Villa,09/10
+79,22,Lokomotiv Moscow,09/10
+80,21,AS Saint-Étienne,09/10
+81,20,AS Nancy Lorraine,09/10
+82,19,Metalist Kharkiv,09/10
+83,18,Levski Sofia,09/10
+84,17,FC Twente Enschede,09/10
+85,16,AaB Aalborg,09/10
+86,15,RC Strasbourg,09/10
+87,14,Rosenborg BK,09/10
+88,13,Athletic Bilbao,09/10
+89,12,Racing Santander,09/10
+90,11,Lazio,09/10
+91,10,Deportivo La Coruña,09/10
+92,9,AC Parma,09/10
+93,8,Portsmouth FC,09/10
+94,7,Rubin Kazan,09/10
+95,6,AS Monaco,09/10
+96,5,FC Zürich,09/10
+97,4,Livorno,09/10
+98,3,1.FC Nürnberg,09/10
+99,2,FC Salzburg,09/10
+100,1,Maccabi Haifa,09/10
+1,100,FC Barcelona,08/09
+2,99,Chelsea,08/09
+3,98,Liverpool,08/09
+4,97,Manchester United,08/09
+5,96,AC Milan,08/09
+6,95,Arsenal,08/09
+7,94,Sevilla,08/09
+8,93,Bayern München,08/09
+9,92,Werder Bremen,08/09
+10,91,Olympique Lyon,08/09
+11,90,Internazionale,08/09
+12,89,Villarreal,08/09
+13,88,Real Madrid,08/09
+14,87,AS Roma,08/09
+15,86,PSV Eindhoven,08/09
+16,85,Shakhtar Donetsk,08/09
+17,84,CSKA Moscow,08/09
+18,83,Zenit St. Petersburg,08/09
+19,82,FC Porto,08/09
+20,81,Sporting CP Lisbon,08/09
+21,80,Hamburger SV,08/09
+22,79,AZ Alkmaar,08/09
+23,78,Benfica,08/09
+24,77,Juventus,08/09
+25,76,Schalke 04,08/09
+26,75,Valencia,08/09
+27,74,Panathinaikos,08/09
+28,73,Glasgow Rangers,08/09
+29,72,Tottenham Hotspur,08/09
+30,71,Newcastle United,08/09
+31,70,Ajax,08/09
+32,69,Steaua Bucuresti,08/09
+33,68,Espanyol,08/09
+34,67,Olympiakos Piraeus,08/09
+35,66,Fenerbahçe,08/09
+36,65,Bayer Leverkusen,08/09
+37,64,FC Basel,08/09
+38,63,Middlesbrough,08/09
+39,62,Olympique Marseille,08/09
+40,61,Lille OSC,08/09
+41,60,Dinamo Kiev,08/09
+42,59,Paris Saint-Germain,08/09
+43,58,VfB Stuttgart,08/09
+44,57,Fiorentina,08/09
+45,56,Atlético Madrid,08/09
+46,55,Udinese,08/09
+47,54,AC Parma,08/09
+48,53,Celtic,08/09
+49,52,Girondins Bordeaux,08/09
+50,51,Sporting Braga,08/09
+51,50,Bolton Wanderers,08/09
+52,49,Osasuna,08/09
+53,48,Rapid Bucuresti,08/09
+54,47,Everton,08/09
+55,46,Palermo,08/09
+56,45,AJ Auxerre,08/09
+57,44,Spartak Moscow,08/09
+58,43,Club Brugge,08/09
+59,42,Heerenveen,08/09
+60,41,Galatasaray,08/09
+61,40,AS Monaco,08/09
+62,39,Manchester City,08/09
+63,38,Getafe,08/09
+64,37,Besiktas,08/09
+65,36,Anderlecht,08/09
+66,35,RC Lens,08/09
+67,34,Real Zaragoza,08/09
+68,33,Austria Wien,08/09
+69,32,Sampdoria,08/09
+70,31,Blackburn Rovers,08/09
+71,30,Rosenborg BK,08/09
+72,29,FC København,08/09
+73,28,Deportivo La Coruña,08/09
+74,27,Lazio,08/09
+75,26,Lokomotiv Moscow,08/09
+76,25,Hertha BSC,08/09
+77,24,Sparta Praha,08/09
+78,23,Celta de Vigo,08/09
+79,22,Real Betis,08/09
+80,21,Feyenoord,08/09
+81,20,Dinamo Bucuresti,08/09
+82,19,AEK Athens,08/09
+83,18,Slavia Praha,08/09
+84,17,AS Saint-Étienne,08/09
+85,16,AS Nancy Lorraine,08/09
+86,15,AaB Aalborg,08/09
+87,14,Metalist Kharkiv,08/09
+88,13,Dnipro Dnipropetrovsk,08/09
+89,12,Levski Sofia,08/09
+90,11,RC Strasbourg,08/09
+91,10,Aston Villa,08/09
+92,9,Athletic Bilbao,08/09
+93,8,Partizan Belgrade,08/09
+94,7,Racing Santander,08/09
+95,6,FC Sochaux-Montbéliard,08/09
+96,5,Portsmouth FC,08/09
+97,4,VfL Wolfsburg,08/09
+98,3,Standard Liège,08/09
+99,2,Livorno,08/09
+100,1,Alemannia Aachen,08/09
+1,100,Chelsea,07/08
+2,99,AC Milan,07/08
+3,98,Liverpool,07/08
+4,97,FC Barcelona,07/08
+5,96,Arsenal,07/08
+6,95,Manchester United,07/08
+7,94,Sevilla,07/08
+8,93,Olympique Lyon,07/08
+9,92,Internazionale,07/08
+10,91,Real Madrid,07/08
+11,90,Bayern München,07/08
+12,89,PSV Eindhoven,07/08
+13,88,Villarreal,07/08
+14,87,Newcastle United,07/08
+15,86,Valencia,07/08
+16,85,AS Roma,07/08
+17,84,FC Porto,07/08
+18,83,Benfica,07/08
+19,82,Werder Bremen,07/08
+20,81,AZ Alkmaar,07/08
+21,80,Sporting CP Lisbon,07/08
+22,79,Schalke 04,07/08
+23,78,Juventus,07/08
+24,77,Glasgow Rangers,07/08
+25,76,Olympique Marseille,07/08
+26,75,Espanyol,07/08
+27,74,Zenit St. Petersburg,07/08
+28,73,CSKA Moscow,07/08
+29,72,Steaua Bucuresti,07/08
+30,71,AS Monaco,07/08
+31,70,Middlesbrough,07/08
+32,69,Bayer Leverkusen,07/08
+33,68,Tottenham Hotspur,07/08
+34,67,AC Parma,07/08
+35,66,Lille OSC,07/08
+36,65,AJ Auxerre,07/08
+37,64,Panathinaikos,07/08
+38,63,Girondins Bordeaux,07/08
+39,62,Hamburger SV,07/08
+40,61,VfB Stuttgart,07/08
+41,60,Celtic,07/08
+42,59,FC Basel,07/08
+43,58,Ajax,07/08
+44,57,Olympiakos Piraeus,07/08
+45,56,Fenerbahçe,07/08
+46,55,Shakhtar Donetsk,07/08
+47,54,Bolton Wanderers,07/08
+48,53,Osasuna,07/08
+49,52,Deportivo La Coruña,07/08
+50,51,Everton,07/08
+51,50,Celta de Vigo,07/08
+52,49,RC Lens,07/08
+53,48,Palermo,07/08
+54,47,Getafe,07/08
+55,46,Real Zaragoza,07/08
+56,45,Anderlecht,07/08
+57,44,Club Brugge,07/08
+58,43,Rapid Bucuresti,07/08
+59,42,Fiorentina,07/08
+60,41,Besiktas,07/08
+61,40,Spartak Moscow,07/08
+62,39,Lokomotiv Moscow,07/08
+63,38,Blackburn Rovers,07/08
+64,37,Lazio,07/08
+65,36,FC Sochaux-Montbéliard,07/08
+66,35,Paris Saint-Germain,07/08
+67,34,Atlético Madrid,07/08
+68,33,Sparta Praha,07/08
+69,32,Dinamo Bucuresti,07/08
+70,31,Real Betis,07/08
+71,30,Heerenveen,07/08
+72,29,Rosenborg BK,07/08
+73,28,Udinese,07/08
+74,27,Dinamo Kiev,07/08
+75,26,Athletic Bilbao,07/08
+76,25,Real Mallorca,07/08
+77,24,Feyenoord,07/08
+78,23,Sporting Braga,07/08
+79,22,Real Sociedad,07/08
+80,21,Levski Sofia,07/08
+81,20,Dnipro Dnipropetrovsk,07/08
+82,19,Austria Wien,07/08
+83,18,AEK Athens,07/08
+84,17,Slavia Praha,07/08
+85,16,RC Strasbourg,07/08
+86,15,Manchester City,07/08
+87,14,Galatasaray,07/08
+88,13,Sampdoria,07/08
+89,12,Livorno,07/08
+90,11,Perugia,07/08
+91,10,Hertha BSC,07/08
+92,9,Millwall FC,07/08
+93,8,Southampton FC,07/08
+94,7,Partizan Belgrade,07/08
+95,6,AS Nancy Lorraine,07/08
+96,5,Alemannia Aachen,07/08
+97,4,Stade Rennais,07/08
+98,3,1.FC Nürnberg,07/08
+99,2,FC København,07/08
+100,1,Gençlerbirligi,07/08
