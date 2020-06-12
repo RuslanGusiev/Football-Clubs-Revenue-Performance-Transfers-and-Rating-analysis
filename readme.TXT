@@ -1,0 +1,1 @@
+Football Clubs’ Revenue, Performance, Transfers and Rating analysis: merged 3 data sets with Scraping and Cleaning data with Python, analysis, and visualizations with Python libraries
